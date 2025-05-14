@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Popo"
+date:   2025-05-13 16:42:56 +0300
+categories: Momo
+---
+
+## Welcome to Popo
+
+This is a mock post to demonstrate the structure of a blog entry. Here are some key points:
+
+- **Purpose**: To showcase how markdown posts are structured.
+- **Audience**: Anyone interested in learning markdown.
+
+### Key Features
+
+1. Simple and clean layout.
+2. Easy to read and write.
+3. Supports various formatting options.
+
+### Example Code
+
+```python
+def greet(name):
+  return f"Hello, {name}!"
+
+print(greet("World"))
+```
+
+Feel free to edit this post and make it your own!
