@@ -1,30 +1,12 @@
 ---
 layout: post
-title:  "Popo"
+title:  "Starting My Journey in DSA with Linked Lists"
 date:   2025-05-13 16:42:56 +0300
 categories: Momo
 ---
 
-## Welcome to Popo
+So this is my first post – I'm making this blog to improve my knowledge.
 
-This is a mock post to demonstrate the structure of a blog entry. Here are some key points:
+I've decided to delve into DSA (Data Structures and Algorithms) knowledge to become a better software developer. DSA is a foundational area in computer science that focuses on how data is organized (data structures) and the methods used to process that data efficiently (algorithms). After watching a few YouTube videos from various people, I realized I was gaining some familiarity but needed to learn from one consistent source, so I took a Udemy course. At this point, I've finished learning about Big O notation and Linked Lists. In this post, I'm going to summarize what I've learned – mostly about Linked Lists.
 
-- **Purpose**: To showcase how markdown posts are structured.
-- **Audience**: Anyone interested in learning markdown.
-
-### Key Features
-
-1. Simple and clean layout.
-2. Easy to read and write.
-3. Supports various formatting options.
-
-### Example Code
-
-```python
-def greet(name):
-  return f"Hello, {name}!"
-
-print(greet("World"))
-```
-
-Feel free to edit this post and make it your own!
+Linked Lists are fundamental data structures that allow efficient insertions and deletions. They form the basis for many other data structures and algorithms. In my next post, I'll dive deeper into how Linked Lists work, their different types, and some practical use cases.
