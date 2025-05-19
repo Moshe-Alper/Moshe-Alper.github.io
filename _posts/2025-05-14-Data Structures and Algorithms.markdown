@@ -5,8 +5,6 @@ date: 2025-05-13 16:42:56 +0300
 categories: Data Structures and Algorithms
 ---
 
-# Linked Lists: Understanding the Basics
-
 Welcome to my coding journey! This marks the first entry in what I hope becomes a valuable repository of knowledge—both for myself and perhaps for fellow developers out there walking similar paths.
 
 ## My DSA Learning Journey
