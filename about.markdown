@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to my corner of the web!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm Moshe, a passionate Full-Stack / Front-end Web Developer continuously exploring the exciting world of modern web technologies. With a background that blends technical development with a solid understanding of visual design, I enjoy crafting intuitive and engaging user experiences.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is where I document my learning journey, share insights, and explore various topics in web development, with a particular focus on JavaScript, React, Angular, Node.js, and more.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Thanks for stopping by!
