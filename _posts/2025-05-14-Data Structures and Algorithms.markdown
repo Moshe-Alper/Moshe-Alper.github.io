@@ -3,6 +3,8 @@ layout: post
 title: "Linked Lists: Understanding the Basics"
 date: 2025-05-13 16:42:56 +0300
 categories: Data Structures and Algorithms
+tags: [linked lists, data structures, algorithms, javascript, programming, computer science, big o, arrays, learning]
+author: Moshe Alper
 ---
 
 Welcome to my coding journey! This marks the first entry in what I hope becomes a valuable repository of knowledge—both for myself and perhaps for fellow developers out there walking similar paths.
